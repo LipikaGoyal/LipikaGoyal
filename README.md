@@ -1,60 +1,112 @@
-<h1 align="center">🚀 Hey, I'm Lipika Goyal! 👋</h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH-gtEOf-HXcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724677862105?e=1747872000&v=beta&t=kpo08fQv_ejPD7lrsZAkTbKPCl1ZwJnN8BPabAcsLQc" width="800">
+</p>
 
-<h3 align="center">💡 AI Innovator | Full-Stack Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">🚀 Hey, I'm <span style="color:#FFA500;">Lipika Goyal</span>! 👋</h1>
+
+<h3 align="center">Upcoming SWE Intern @Google | Google STEP Intern'24 | Salesforce Women In Tech '24 | NIT Kkr Cse' 26 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEi1WBymrMlow/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724677180315?e=1747872000&v=beta&t=iosQsqGNxwCpMhmrOzH5E355eZL9pTC1UeLrrkr4t4w" width="200" style="border-radius:50%">
 </p>
 
 ---
 
-## 🔥 About Me  
+## **💡 About Me**  
 
-- 🏆 **Finalist in D.E. Shaw Ascend 2024** (Top 80 from thousands!)  
-- 👩‍💻 **Founder & CEO of Goyal Tech Ltd.** – Built and launched multiple mobile apps  
-- 📚 **Published Author** – Wrote an **Ethical Hacking** book on Amazon KDP  
-- 🚀 **AI-Powered Web Developer** – Built **CodeGen**, a no-code app development platform  
+💡 Passionate about **AI-driven web development, ethical hacking**, and making tech accessible.  
+📍 **Founder @ Goyal Tech Ltd.** – Turning ideas into mobile apps used by thousands!  
+📚 **Published Author** – Wrote a book on **Ethical Hacking** available on Amazon KDP.  
+🏆 **Finalist in D.E. Shaw Ascend & Smart India Hackathon** – Competing at the highest level.  
 
----
+📈 **LinkedIn Stats:** 200K+ Impressions | 4K+ Connections | 400+ Engaged Conversations  
 
-## 🛠 Tech Stack & Skills  
-
-**Programming Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-**Web Development:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Other Skills:**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-black?style=flat-square&logo=kali-linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-5E5DF0?style=flat-square&logo=hack-the-box&logoColor=white)
+🔗 **[Follow me on LinkedIn](https://www.linkedin.com/in/lipika-goyal-6039b11b1/)**  
 
 ---
 
-## 💼 What I’ve Built  
+## **💼 Experience**   
 
-### 🔹 CodeGen – AI-powered no-code web development  
-📌 Built a **WebContainers-based IDE** for real-time execution  
-📌 Integrated **Next.js, Gemini API, Convex**, and more for **dynamic, scalable apps**  
+### 💻 **Intern | Google (STEP Program)** *(2024)*  
+📌 Worked on **high-performance data conversion** projects.  
+📌 Implemented a **XLSX to HTML conversion library** for Google Workspace.  
+📌 Optimized **Google Workspace format conversion** to enhance speed & accuracy.  
+
+### 🚀 **Founder & CEO | Goyal Tech Ltd.** *(2017 - 2021)*  
+📌 Built and published **mobile applications** used by thousands.  
+📌 Developed **Guess The Logo, FindWords, RailYatri, and Polygama**.  
+📌 Created a **YouTube-style Punjabi music app** from scratch.  
+📌 Transformed **websites into fully functional mobile applications**.  
+
+### 📚 **Author | Amazon KDP** *(2017 - 2021)*  
+📌 Published a book on **Ethical Hacking**.  
+📌 Self-designed the **cover, formatting, and content**.  
+📌 Available on **Amazon Kindle & Paperback**. 
+
+---
+
+## **💡 Projects**  
+
+### **💡 CodeGen – AI-Powered No-Code Web Development**  
+📌 Developed a **WebContainers-based IDE** for real-time execution.  
+📌 Integrated **Next.js, Gemini API, Convex**, and more for a **dynamic, scalable workspace**.  
 📌 **[→ Check it out on GitHub](https://github.com/LipikaGoyal/CodeGen1.0)**  
 
-### 🔹 BaalSarthi – Data-driven platform to analyze & reduce student dropout rates  
-📌 Developed a web tool to **improve student retention** in Gujarat  
+### **🌍 BaalSarthi – Data-Driven Educational Platform**  
+📌 Designed a platform to **analyze & reduce student dropout rates in Gujarat**.  
+📌 Developed an interactive **data-driven dashboard** for educational institutions.  
 
-### 🔹 Mobile Apps – **Guess The Logo, FindWords, RailYatri, and Polygama**  
-📌 Converted websites into **fully functional mobile apps**  
-📌 Developed a **YouTube-style music app** for Punjabi content  
+### **📱 Mobile Applications – Goyal Tech Ltd.**  
+📌 Built **Guess The Logo, FindWords, RailYatri, and Polygama**.  
+📌 Converted **static websites into engaging mobile apps**.  
+📌 Created a **YouTube-style Punjabi music app** for niche audiences.  
 
 ---
 
-## 🏆 Achievements & Highlights  
+## **🛠 Tech Stack & Skills**  
+
+### **Languages**  
+<table>
+<tr>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50"></td>
+</tr>
+<tr>
+  <td>C</td>
+  <td>C++</td>
+  <td>Python</td>
+  <td>Java</td>
+  <td>JavaScript</td>
+</tr>
+</table>
+
+### **Web Development**  
+<table>
+<tr>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50"></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50"></td>
+</tr>
+<tr>
+  <td>React.js</td>
+  <td>Node.js</td>
+  <td>MongoDB</td>
+  <td>Next.js</td>
+  <td>Tailwind CSS</td>
+</tr>
+</table>
+
+🛠 **Other Skills:** AI & ML, Ethical Hacking, Prompt Engineering, Full-Stack Development, Web Security.  
+
+---
+
+## **🏆 Achievements & Highlights**  
 
 🏅 **Finalist - Smart India Hackathon** (National-level competition!)  
 🏅 **Salesforce Women in Tech 2024** – Selected from thousands of applicants  
@@ -62,7 +114,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LipikaGoyal&show_icons=true&theme=radical" />
@@ -71,7 +123,7 @@
 
 ---
 
-## 📢 Let’s Connect!  
+## 📢 **Let’s Connect!**  
 
 <p align="center">
   <a href="mailto:hellolipikagoyal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -81,4 +133,4 @@
 
 ---
 
-🚀 **Always building, breaking, and learning.** Let's create something **amazing** together! 💡
+🚀 **Building, learning, and pushing boundaries.** Let’s create something **amazing** together! 💡
